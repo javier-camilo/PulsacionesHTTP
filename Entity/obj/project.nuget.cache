@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uqA7kLVCsDKIEpK+CtkI8mQhkK25LWjpY1EoG+VeajMtqsOSGjljkOZKOpPofm6hY2wW2DgoB45WT/0DGSce1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
