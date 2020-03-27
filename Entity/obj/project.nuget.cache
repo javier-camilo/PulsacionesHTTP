@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "0WeGBIYy+d5pijs3C//H6NjIraVI8WX4mvafPIHia4RXD2+HLUL+RuB4/+pFMrQlb9irvhPHaVRi/PEQZ3jHTA==",
   "success": true,
   "projectFilePath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj",
+=======
+  "dgSpecHash": "uqA7kLVCsDKIEpK+CtkI8mQhkK25LWjpY1EoG+VeajMtqsOSGjljkOZKOpPofm6hY2wW2DgoB45WT/0DGSce1g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj",
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

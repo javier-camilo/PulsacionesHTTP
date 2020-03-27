@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Logica\\Logica.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Datos\\Datos.csproj",
         "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Datos\\obj\\",
+=======
+    "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Logica\\Logica.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\Datos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\Datos.csproj",
+        "projectName": "Datos",
+        "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\Datos.csproj",
+        "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\obj\\",
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -30,8 +44,13 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj": {
                 "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj"
+=======
+              "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj"
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
               }
             }
           }
@@ -74,6 +93,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -82,6 +102,16 @@
         "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj",
         "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\obj\\",
+=======
+    "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj",
+        "projectName": "Entity",
+        "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj",
+        "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\obj\\",
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -132,6 +162,7 @@
         }
       }
     },
+<<<<<<< HEAD
     "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Logica\\Logica.csproj": {
       "version": "1.0.0",
       "restore": {
@@ -140,6 +171,16 @@
         "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Logica\\Logica.csproj",
         "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Logica\\obj\\",
+=======
+    "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Logica\\Logica.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Logica\\Logica.csproj",
+        "projectName": "Logica",
+        "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Logica\\Logica.csproj",
+        "packagesPath": "C:\\Users\\ASUS-PC\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Logica\\obj\\",
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -158,11 +199,19 @@
         "frameworks": {
           "netstandard2.0": {
             "projectReferences": {
+<<<<<<< HEAD
               "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Datos\\Datos.csproj": {
                 "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Datos\\Datos.csproj"
               },
               "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj": {
                 "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\PulsacionesHTTP-master\\Entity\\Entity.csproj"
+=======
+              "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\Datos.csproj": {
+                "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Datos\\Datos.csproj"
+              },
+              "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj": {
+                "projectPath": "C:\\Users\\ASUS-PC\\Desktop\\Plantillas oficiales\\Ejercicio\\Entity\\Entity.csproj"
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
               }
             }
           }

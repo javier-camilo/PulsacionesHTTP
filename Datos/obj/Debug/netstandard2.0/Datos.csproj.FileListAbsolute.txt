@@ -10,6 +10,7 @@ C:\Users\ASUS-PC\Desktop\Plantillas oficiales\Ejercicio\Datos\obj\Debug\netstand
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\Ejercicio\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\Ejercicio\Datos\obj\Debug\netstandard2.0\Datos.dll
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\Ejercicio\Datos\obj\Debug\netstandard2.0\Datos.pdb
+<<<<<<< HEAD
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\bin\Debug\netstandard2.0\Datos.deps.json
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\bin\Debug\netstandard2.0\Datos.dll
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\bin\Debug\netstandard2.0\Datos.pdb
@@ -22,3 +23,5 @@ C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\obj\D
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\obj\Debug\netstandard2.0\Datos.csproj.CopyComplete
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\obj\Debug\netstandard2.0\Datos.dll
 C:\Users\ASUS-PC\Desktop\Plantillas oficiales\PulsacionesHTTP-master\Datos\obj\Debug\netstandard2.0\Datos.pdb
+=======
+>>>>>>> 0e332ee07b55f1a8b06884d8337cb84648ffdfc2
